@@ -41,7 +41,7 @@ There is no unified platform connecting donors, beneficiaries, and authorities.
 
 ---
 
-## 💡 Proposed Solution
+## Proposed Solution
 This project introduces a digital platform that integrates:
 
 - **Artificial Intelligence (AI)** for automated verification and fraud detection
